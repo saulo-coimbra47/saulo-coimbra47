@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente eu não trabalho, sou um estudante de Análise e Desenvolvimento de Sistemas
-- 📚 Estudando TNode.js
+- 📚 Estudando Node.js
 
 <div>
   <a href="https://github.com/saulo-coimbra47">
