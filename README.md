@@ -6,9 +6,9 @@
 - 📚 Estudando Node.js e desenvolvimento nativo para Android com Kotlin
 
 <div>
-  <a href="https://github.com/saulo-coimbra47">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saulo-coimbra47&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulo-coimbra47&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://github.com/saulocoimbra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saulocoimbra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulocoimbra&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <h3 align="left">Linguagens e tecnologias:</h3>
